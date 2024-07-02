@@ -5,7 +5,6 @@
 I am a front-end web developer proficient in HTML, CSS, Tailwind CSS, JavaScript, and React, with a strong focus on creating responsive and user-friendly web applications. My expertise in modern front-end technologies allows me to craft visually appealing and highly functional user interfaces. Additionally, I have experience with Node.js, Express.js, and MongoDB, enabling me to build robust server-side applications and RESTful APIs. I am skilled in version control using Git, deploying applications on platforms like firebase, vercel and Netlify, and integrating third-party APIs. With a passion for continuous learning and staying updated with industry trends, I aim to deliver high-quality, efficient, and user-centric web applications, and I am eager to contribute to innovative projects and collaborate with dynamic teams.
 
 <br>
-<br>
 
 Skills: REACT / JS / HTML / CSS / TAILWIND CSS / MONGODB / NODE.JS / EXPRESS.JS
 
@@ -16,14 +15,13 @@ Skills: REACT / JS / HTML / CSS / TAILWIND CSS / MONGODB / NODE.JS / EXPRESS.JS
 - 👯 I’m looking to collaborate on github. 
 
 <br>
-<br>
 
 🔗 &nbsp;**Connect with me**  
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/mdshamim125) &nbsp;&nbsp;&nbsp; [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/md-shamim125/)
 
 
-<br>
+
 <br>
 
 
