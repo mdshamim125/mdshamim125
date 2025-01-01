@@ -2,7 +2,7 @@
 #### I am a Web Developer
 ![I am a Web Developer](https://i.ibb.co/HBBhqrj/Black-and-Gold-Tech-Website-Developer-Linked-In-Banner.png)
 
-I am a front-end web developer proficient in HTML, CSS, Tailwind CSS, JavaScript, and React, with a strong focus on creating responsive and user-friendly web applications. My expertise in modern front-end technologies allows me to craft visually appealing and highly functional user interfaces. Additionally, I have experience with Node.js, Express.js, and MongoDB, enabling me to build robust server-side applications and RESTful APIs. I am skilled in version control using Git, deploying applications on platforms like firebase, vercel and Netlify, and integrating third-party APIs. With a passion for continuous learning and staying updated with industry trends, I aim to deliver high-quality, efficient, and user-centric web applications, and I am eager to contribute to innovative projects and collaborate with dynamic teams.
+I am a front-end web developer proficient in HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React.js and Next.js, with a strong focus on creating responsive and user-friendly web applications. My expertise in modern front-end technologies allows me to craft visually appealing and highly functional user interfaces. Additionally, I have experience with Node.js, Express.js, MongoDB and My SQL enabling me to build robust server-side applications and RESTful APIs. I am skilled in version control using Git, deploying applications on platforms like firebase, vercel and Netlify, and integrating third-party APIs. With a passion for continuous learning and staying updated with industry trends, I aim to deliver high-quality, efficient, and user-centric web applications, and I am eager to contribute to innovative projects and collaborate with dynamic teams.
 
 <br>
 
@@ -36,10 +36,13 @@ Skills: REACT / JS / HTML / CSS / TAILWIND CSS / MONGODB / My SQL / NODE.JS / EX
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)  
 ![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
