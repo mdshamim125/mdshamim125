@@ -6,7 +6,7 @@ I am a front-end web developer proficient in HTML, CSS, Tailwind CSS, JavaScript
 
 <br>
 
-Skills: REACT / JS / HTML / CSS / TAILWIND CSS / MONGODB / NODE.JS / EXPRESS.JS
+Skills: REACT / JS / HTML / CSS / TAILWIND CSS / MONGODB / My SQL / NODE.JS / EXPRESS.JS
 
 <br>
 <br>
