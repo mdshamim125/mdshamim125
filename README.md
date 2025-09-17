@@ -36,9 +36,9 @@ I enjoy solving real-world problems with technology, collaborating with teams, a
 
 🔗 &nbsp;**Connect with me**  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/mdshamim125) &nbsp;&nbsp;&nbsp;
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/md-shamim125/) &nbsp;&nbsp;&nbsp;
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/profile.php?id=100028692487641)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mdshamim125)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-shamim125/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100028692487641)
 
 
 
@@ -98,7 +98,6 @@ I enjoy solving real-world problems with technology, collaborating with teams, a
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mdshamim125)
 
 ### 📊 Profile Visitors
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/mdshamim125&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
-
+![Profile Views](https://komarev.com/ghpvc/?username=mdshamim125&label=Profile%20Views&color=0e75b6&style=flat)
  
 
