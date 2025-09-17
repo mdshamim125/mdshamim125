@@ -60,7 +60,8 @@ I enjoy solving real-world problems with technology, collaborating with teams, a
 ![Node.js](https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-%23000000.svg?style=for-the-badge&logo=prisma&logoColor=white) 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
@@ -87,8 +88,7 @@ I enjoy solving real-world problems with technology, collaborating with teams, a
 
 
 
-### 📊 Profile Visitors
-![Profile Views](https://komarev.com/ghpvc/?username=mdshamim125&label=Profile%20Views&color=0e75b6&style=flat)
+
 
 ### 📈 GitHub Stats  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdshamim125)](https://github.com/anuraghazra/github-readme-stats)
@@ -96,5 +96,9 @@ I enjoy solving real-world problems with technology, collaborating with teams, a
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdshamim125&show_icons=true&count_private=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mdshamim125)
+
+### 📊 Profile Visitors
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/mdshamim125&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)
+
  
 
