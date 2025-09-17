@@ -22,8 +22,15 @@ I enjoy solving real-world problems with technology, collaborating with teams, a
 <br>
 <br>
 
-- 🌱 I’m currently learning MongBD, Node.js and Express.js for becoming a MERN stack Web Developer. 
-- 👯 I’m looking to collaborate on github. 
+---
+
+### 🌱 Currently Learning  
+- Advanced **Node.js & Express.js** patterns  
+- **PostgreSQL** for relational database design and **Prisma** for modern ORM and database management  
+- **Backend architecture** for scalability, performance optimization, and clean code practices  
+ 
+
+---
 
 <br>
 
@@ -80,9 +87,14 @@ I enjoy solving real-world problems with technology, collaborating with teams, a
 
 
 
+### 📊 Profile Visitors
+![Profile Views](https://komarev.com/ghpvc/?username=mdshamim125&label=Profile%20Views&color=0e75b6&style=flat)
+
+### 📈 GitHub Stats  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdshamim125)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdshamim125&show_icons=true&count_private=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=mdshamim125)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=mdshamim125)
+ 
 
