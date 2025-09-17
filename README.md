@@ -1,13 +1,23 @@
-### Hi there 👋, my name is Md Shamim
-#### I am a Web Developer
-![I am a Web Developer](https://i.ibb.co/v6tyv1Y6/Blue-and-White-Simple-Web-Designer-General-Linked-In-Banner.png)
+### Hi there 👋, I'm Md Shamim  
+#### MERN Stack Developer | Backend-Focused Full-Stack Enthusiast | Creating Scalable & User-Centric Web Apps  
 
+![MERN Stack Developer Banner](https://i.ibb.co/v6tyv1Y6/Blue-and-White-Simple-Web-Designer-General-Linked-In-Banner.png)
 
-I am a front-end web developer proficient in HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React.js and Next.js, with a strong focus on creating responsive and user-friendly web applications. My expertise in modern front-end technologies allows me to craft visually appealing and highly functional user interfaces. Additionally, I have experience with Node.js, Express.js, MongoDB and My SQL enabling me to build robust server-side applications and RESTful APIs. I am skilled in version control using Git, deploying applications on platforms like firebase, vercel and Netlify, and integrating third-party APIs. With a passion for continuous learning and staying updated with industry trends, I aim to deliver high-quality, efficient, and user-centric web applications, and I am eager to contribute to innovative projects and collaborate with dynamic teams.
+I’m a **MERN Stack Developer** passionate about building **scalable, user-friendly, and visually appealing web applications**.  
+I specialize in **React.js, Next.js, Redux Toolkit, Node.js, Express.js, MongoDB** and have experience designing **end-to-end solutions** with secure authentication, real-time updates, and clean, maintainable code.  
 
-<br>
+I enjoy solving real-world problems with technology, collaborating with teams, and continuously learning modern tools to deliver impactful projects.  
 
-Skills: REACT / JS / HTML / CSS / TAILWIND CSS / MONGODB / My SQL / NODE.JS / EXPRESS.JS
+---
+
+### 🛠 Skills  
+**Frontend:** HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React, Redux Toolkit, RTK Query, Next.js  
+**Backend & Database:** Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, Prisma  
+**Tools & Platforms:** Git, GitHub, Firebase, Vercel, Netlify, Cloudinary, Redis  
+**Soft Skills:** Problem-Solving, Teamwork, Communication, Time Management  
+
+---
+
 
 <br>
 <br>
