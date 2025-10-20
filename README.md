@@ -3,6 +3,8 @@
 
 ![MERN Stack Developer Banner](https://i.ibb.co/v6tyv1Y6/Blue-and-White-Simple-Web-Designer-General-Linked-In-Banner.png)
 
+
+
 I’m a **MERN Stack Developer** passionate about building **scalable, user-friendly, and visually appealing web applications**.  
 I specialize in **React.js, Next.js, Redux Toolkit, Node.js, Express.js, MongoDB** and have experience designing **end-to-end solutions** with secure authentication, real-time updates, and clean, maintainable code.  
 
@@ -97,7 +99,5 @@ I enjoy solving real-world problems with technology, collaborating with teams, a
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mdshamim125)
 
-### 📊 Profile Visitors
-![Profile Views](https://komarev.com/ghpvc/?username=mdshamim125&label=Profile%20Views&color=0e75b6&style=flat)
  
 
