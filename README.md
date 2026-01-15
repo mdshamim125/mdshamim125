@@ -99,5 +99,15 @@ I enjoy solving real-world problems with technology, collaborating with teams, a
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mdshamim125)
 
+
+### 📈 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdshamim125&layout=compact&theme=dark)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdshamim125&show_icons=true&count_private=true&theme=dark)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=mdshamim125&theme=dark)
+
+
  
 
