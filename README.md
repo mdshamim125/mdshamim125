@@ -104,7 +104,8 @@ I enjoy solving real-world problems with technology, collaborating with teams, a
 
 ![GitHub Stats](https://github-readme-stats-one-theta-71.vercel.app/api?username=mdshamim125&show_icons=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mdshamim125&theme=dark)
+![GitHub Streak](https://streak-stats.vercel.app/?user=mdshamim125)
+
 
 
 
