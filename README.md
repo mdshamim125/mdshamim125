@@ -26,10 +26,10 @@ I enjoy solving real-world problems with technology, collaborating with teams, a
 
 ---
 
-### 🌱 Currently Learning  
-- Advanced **Node.js & Express.js** patterns  
-- **PostgreSQL** for relational database design and **Prisma** for modern ORM and database management  
-- **Backend architecture** for scalability, performance optimization, and clean code practices  
+### 🌱 Currently Learning
+- Advanced **Next.js** (SSR, SSG, ISR)
+- **PostgreSQL** for relational database design with **Prisma ORM**
+- **Backend & DevOps**: AWS (S3, IAM, EC2), CI/CD pipelines, and Docker
  
 
 ---
@@ -105,6 +105,15 @@ I enjoy solving real-world problems with technology, collaborating with teams, a
 ![GitHub Stats](https://github-readme-stats-one-theta-71.vercel.app/api?username=mdshamim125&show_icons=true&count_private=true)
 
 ![GitHub Streak](https://streak-stats.vercel.app/?user=mdshamim125)
+
+
+### 📅 Contribution Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mdshamim125&theme=github-dark)
+
+
+
+
 
 
 
