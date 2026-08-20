@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Md Shamim  
 #### MERN Stack Developer | Backend-Focused Full-Stack Enthusiast | Creating Scalable & User-Centric Web Apps  
 
-![MERN Stack Developer Banner](https://i.ibb.co/v6tyv1Y6/Blue-and-White-Simple-Web-Designer-General-Linked-In-Banner.png)
+![MERN Stack Developer Banner](https://i.ibb.co.com/9kpfxCL8/shamim-3.png)
 
 
 
